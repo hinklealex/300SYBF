@@ -72,7 +72,6 @@ public class BloomFilter
         bitArray[decimalTwoTwo] = 1;
         bitArray[decimalThreeOne] = 1;
         bitArray[decimalThreeTwo]= 1;
-
         System.out.println(Arrays.toString(bitArray));
 
 
