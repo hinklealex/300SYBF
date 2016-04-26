@@ -20,7 +20,7 @@ public class shuntingYard extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_shunting_yard);
         System.out.println("here");
-        BloomFilter.bloomFilter(25, 159, 585);//change
+        BloomFilter.bloomFilter(69, 155, 79);//change
         this.inputTF = (EditText)this.findViewById(R.id.inputTF);
         this.outputText = (TextView)this.findViewById(R.id.outputText);
 

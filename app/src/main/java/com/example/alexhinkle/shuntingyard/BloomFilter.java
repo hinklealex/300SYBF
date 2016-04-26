@@ -28,7 +28,7 @@ public class BloomFilter
 
     public static void bloomFilter( int one, int two, int three)
     {
-        int bitArray[] = new int[]{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
+        int bitArray[] = new int[]{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 
         String oneBinary = convertBinary(one);
         System.out.println(oneBinary);
